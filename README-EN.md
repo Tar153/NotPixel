@@ -1,4 +1,6 @@
-#NotPixel
+# NotPixel
+
+> 🇷🇺 README на русском доступен [здесь](README.md)
 
 Bots for telegram projects are available for sale such as:
 
