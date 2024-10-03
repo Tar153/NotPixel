@@ -1,6 +1,6 @@
 # NotPixel
 
-> 🇷🇺 README на русском доступен [здесь](README.md)
+> 🇺🇸 README available in English [here](README.md)
 
 Основные функции бота:
 
